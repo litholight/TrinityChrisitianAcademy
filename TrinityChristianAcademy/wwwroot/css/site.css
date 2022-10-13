@@ -16,3 +16,9 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+@media (min-width: 576px) {
+    .navbar-nav {
+        justify-content: center;
+    }
+}
